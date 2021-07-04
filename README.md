@@ -11,6 +11,9 @@
 - 📫 Contact me at **Ash20vyas@gmail.com**
 <br/>
 
+---
+
+
 ## Languages and Tools:
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -32,9 +35,8 @@
 ---
 
 ## Stats:
-<!-- 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=Ash20vyas&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs&cache_second=10000)](https://github.com/mistyneymarjr)
--->
+![no of profile visits](https://komarev.com/ghpvc/?username=Ash20vyas&style=flat-square)
+
 <img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ash20vyas&show_icons=true&count_private=true&theme=tokyonight" />
 
 
