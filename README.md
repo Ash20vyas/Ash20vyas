@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Vyas</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ashutosh Vyas</h1>
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-## I'm a CS undergrad.
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">I'm a CS undergrad.
 
 - 🔭 I’m currently exploring `Deep Learning` and `Artificial Neural Network`
 - 🌱 I’m currently learning `Data Structures and Algorithms`
@@ -13,8 +14,7 @@
 
 ---
 
-
-## Languages and Tools:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Languages and Tools:
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JAVA" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
@@ -34,29 +34,30 @@
 
 ---
 
-## Stats:
+## 🎯 Stats:
 [<img src="https://komarev.com/ghpvc/?username=Ash20vyas&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/Ash20vyas)
 
 <img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ash20vyas&show_icons=true&count_private=true&theme=tokyonight" />
 
 
 
-## Language stats:
+## 📝 Language stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash20vyas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-## Connect with me:
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">Connect with me:
 
 
-[<img align="left" alt="Ashutosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Ashutosh | Instagram" width="22px" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/insta.png" />][instagram]
-
-<br/>
-
----
-
-<br/>
+[<img align="left" alt="Ashutosh | LinkedIn" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Ashutosh | Instagram" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="Ashutosh | Discord" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
 
 [instagram]: https://www.instagram.com/l_0newolf/
 [linkedin]: https://www.linkedin.com/in/ashutosh-vyas-8238b0180/
+[discord]: https://discordapp.com/users/532831398994771969
+
+<br/>
+<br/>
+
+---
