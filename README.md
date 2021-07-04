@@ -35,22 +35,22 @@
 ---
 
 ## Stats:
-![no of profile visits](https://komarev.com/ghpvc/?username=Ash20vyas&style=flat-square)
+[<img src="https://komarev.com/ghpvc/?username=Ash20vyas&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/Ash20vyas)
 
 <img alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ash20vyas&show_icons=true&count_private=true&theme=tokyonight" />
 
 
 
-### Language stats:
+## Language stats:
 
-<img alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash20vyas&layout=compact&theme=tokyonight&hide=Jupyter Notebook"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash20vyas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Connect with me:
+## Connect with me:
 
 
-[<img align="left" alt="Ashutosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ashutosh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ashutosh | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Ashutosh | Instagram" width="22px" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/insta.png" />][instagram]
 
 <br/>
 
