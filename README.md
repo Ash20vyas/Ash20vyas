@@ -9,7 +9,7 @@
 - 💼 Currently looking for internship opportunities.
 - 👨‍💻 All my projects can be accessed at https://github.com/Ash20vyas?tab=repositories
 - ⚡ Hobbies: Reading, Working out, Gaming.
-- 📫 Contact me at **Ash20vyas@gmail.com**
+- 📫 Contact me at **Ashutoshvyas291@gmail.com**
 <br/>
 
 ---
