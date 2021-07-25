@@ -43,7 +43,7 @@
 
 ## 📝 Language stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash20vyas&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash20vyas&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">Connect with me:
