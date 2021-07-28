@@ -8,6 +8,7 @@
 - 👯 Open to collaborate.
 - 💼 Currently looking for internship opportunities.
 - 👨‍💻 All my projects can be accessed at https://github.com/Ash20vyas?tab=repositories
+- 💪 Check out my latest project https://github.com/Ash20vyas/catalogue_app
 - ⚡ Hobbies: Reading, Working out, Gaming.
 - 📫 Contact me at **Ashutoshvyas291@gmail.com**
 <br/>
@@ -18,14 +19,16 @@
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JAVA" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+<img align="left" alt="DART" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"> 
 <img align="left" alt="C" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
 <img align="left" alt="C++" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="julia" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"> 
+<img align="left" alt="flutter" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"> 
 <img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
