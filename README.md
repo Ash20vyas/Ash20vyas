@@ -58,7 +58,7 @@
 
 [instagram]: https://www.instagram.com/l_0newolf/
 [linkedin]: https://www.linkedin.com/in/ashutosh-vyas-8238b0180/
-[discord]: https://discordapp.com/users/532831398994771969
+[discord]: tel:9149117784
 
 <br/>
 <br/>
