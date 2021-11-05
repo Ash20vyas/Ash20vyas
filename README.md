@@ -56,9 +56,9 @@
 [<img align="left" alt="Ashutosh | Instagram" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
 [<img align="left" alt="Ashutosh | Discord" width="45px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
 
-[instagram]: https://www.instagram.com/l_0newolf/
+[instagram]: tel:9149117784
 [linkedin]: https://www.linkedin.com/in/ashutosh-vyas-8238b0180/
-[discord]: tel:9149117784
+[discord]: https://discordapp.com/users/532831398994771969
 
 <br/>
 <br/>
