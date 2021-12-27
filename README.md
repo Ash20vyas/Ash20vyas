@@ -6,10 +6,10 @@
 - 🔭 I’m currently exploring `Deep Learning` and `Artificial Neural Network`
 - 🌱 I’m currently learning `Data Structures and Algorithms`
 - 👯 Open to collaborate.
-- 💼 Currently looking for internship opportunities.
-- 👨‍💻 All my projects can be accessed at https://github.com/Ash20vyas?tab=repositories
-- 💪 Check out my latest project https://github.com/Ash20vyas/catalogue_app
-- ⚡ Hobbies: Reading, Working out, Gaming.
+- 💼 VIew my [Portfolio](https://ashutosh-vyas.vercel.app).
+- 👨‍💻 View my [Projects](https://github.com/Ash20vyas?tab=repositories).
+- 💪 Check out my latest project: [Stock Market Prediction](https://github.com/Ash20vyas/TSF-Intern-Tasks/tree/main/%232%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis)
+- ⚡ Hobbies: Reading, Chess, Working out.
 - 📫 Contact me at **Ashutoshvyas291@gmail.com**
 <br/>
 
